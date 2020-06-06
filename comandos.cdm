@@ -1,0 +1,6 @@
+- npm init -y
+- npm i express
+- npm i morgam
+- npm i ejs
+- npm i handlebras
+- npm install --save mongoose
